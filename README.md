@@ -1,7 +1,7 @@
 # Qt-MDI-Editor
-```
-多文档界面应用程序
 ```diff
+多文档界面应用程序
+```
 程序的效果图：  
 ```c++
 hello world!
