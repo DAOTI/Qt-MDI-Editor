@@ -1,5 +1,7 @@
 # Qt-MDI-Editor
-<font color=red>多文档界面应用程序</font>  
+```
+多文档界面应用程序
+```diff
 程序的效果图：  
 ```c++
 hello world!
